@@ -1,0 +1,48 @@
+.carousel-container {
+  text-align: center;
+  padding: 32px;
+  background-color: #171f46;
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+}
+
+.review-card {
+  margin: 32px auto;
+  max-width: 300px;
+}
+
+.profile-img {
+  width: 100%;
+  max-width: 150px;
+  border-radius: 50%;
+}
+
+.username {
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 16px;
+}
+
+.company {
+  font-size: 18px;
+  margin-top: 8px;
+}
+
+.description {
+  margin-top: 16px;
+}
+
+.navigation-buttons {
+  margin-top: 32px;
+}
+
+.arrow-button {
+  border: none;
+  background-color: transparent;
+  outline: none;
+  cursor: pointer;
+}
+
+.arrow-img {
+  width: 24px;
+}
